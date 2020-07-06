@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SCM Admin.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>DF0FE32AC0AD30376DC0B0510F55C3F4AA5E269E</string>
+				<key>dateExpires</key>
+				<string>16/12/2020</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>393WND98C8.ae.scmajlis.SCM-Admin</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>393WND98C8</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>393WND98C8.ae.scmajlis.SCM-Admin</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>SCM Admin.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>c3654d9d-9943-4c87-9d48-5414f7e2a991</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: ae.scmajlis.SCM-Admin</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>393WND98C8</string>
+				<key>name</key>
+				<string>Super cars exhibition organizing</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
